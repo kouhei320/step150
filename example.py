@@ -1,5 +1,4 @@
 
-
 def greet():
     return "こんにちは"
 
